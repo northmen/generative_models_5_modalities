@@ -66,49 +66,36 @@ A novel state-of-the-art open-source text-to-image model with a high degree of p
 
 ## Video
 
-##### Stable Diffusion 
-[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://user-images.githubusercontent.com/14872007/232229730-82df36cc-ac8b-46b3-949d-0e1dfc10a975.mp4)
-![dfb](https://user-images.githubusercontent.com/14872007/232229730-82df36cc-ac8b-46b3-949d-0e1dfc10a975.mp4)
+##### Stable Diffusion
 https://user-images.githubusercontent.com/14872007/232229730-82df36cc-ac8b-46b3-949d-0e1dfc10a975.mp4
 [![Build Status](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/drive/1uW1ZqswkQ9Z9bp5Nbo5z59cAn7I0hE6R?usp=sharing#scrollTo=NW1MUCGkqYQz)
 [GitHub](https://github.com/kabachuha/sd-webui-text2video) - text2video extension, StableDiffusion WebUI 
 
 ##### Text2Video-Zero
 [![Build Status](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/camenduru/text2video-zero-colab/blob/main/text2video_custom_pro.ipynb)
-[GitHub](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+[GitHub](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Text-to-Image Diffusion Models are Zero-Shot Video Generators
 
 ##### text2Video 
-[GitHub](https://github.com/sibozhang/Text2Video)
+[GitHub](https://github.com/sibozhang/Text2Video) - Text-driven Talking-head Video Synthesis with Phoneme-Pose Dictionary
 
 ##### deforum
 [![Build Status](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/deforum-art/deforum-stable-diffusion/blob/main/Deforum_Stable_Diffusion.ipynb)
-[GitHub](https://github.com/deforum-art/deforum-stable-diffusion)
+[GitHub](https://github.com/deforum-art/deforum-stable-diffusion) - Deforum Stable Diffusion
 [GitHub](https://github.com/deforum-art/sd-webui-deforum) - deforum webui
 
 ##### controlnet
-[GitHub](https://github.com/lllyasviel/ControlNet)
+[GitHub](https://github.com/lllyasviel/ControlNet) - Adding Conditional Control to Text-to-Image Diffusion Models
 [List of colabs](https://github.com/camenduru/controlnet-colab)
 
 
 
 ## 3D
-##### Nerf       
+##### Nerf
+![](https://raw.githubusercontent.com/bmild/nerf/master/imgs/pipeline.jpg)
 [![Build Status](https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/bmild/nerf/blob/master/tiny_nerf.ipynb)
-[GitHub](https://github.com/bmild/nerf)
+[GitHub](https://github.com/bmild/nerf) - Tensorflow implementation of optimizing a neural representation for a single scene and rendering new views
 
 ##### Stable-Dreamfusion
-[GitHub](https://github.com/ashawkey/stable-dreamfusion)
-
-
-
-
-
-
-
-
-
-
-
-
+[GitHub](https://github.com/ashawkey/stable-dreamfusion) - A pytorch implementation of the text-to-3D model Dreamfusion, powered by the Stable Diffusion text-to-2D model
 
 
