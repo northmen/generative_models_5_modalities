@@ -92,6 +92,7 @@ https://user-images.githubusercontent.com/14872007/232229730-82df36cc-ac8b-46b3-
 [GitHub](https://github.com/Picsart-AI-Research/Text2Video-Zero) - Text-to-Image Diffusion Models are Zero-Shot Video Generators
 
 "A horse galloping on a street"
+
 ![](https://raw.githubusercontent.com/Picsart-AI-Research/Text2Video-Zero/main/__assets__/github/results/t2v/horse_galloping_2.gif)
 
 #### text2Video 
